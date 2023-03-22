@@ -1,2 +1,2 @@
 # theband
-My first Fron-end website
+My first Front-end website
